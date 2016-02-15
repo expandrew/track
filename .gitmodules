@@ -1,0 +1,9 @@
+[submodule "docs"]
+	path = docs
+	url = git@github.com:expandrew/track-docs.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:expandrew/track-frontend.git
+[submodule "api"]
+	path = api
+	url = git@github.com:expandrew/track-api.git
