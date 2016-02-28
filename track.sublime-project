@@ -1,0 +1,47 @@
+{
+    "folders":
+    [
+        {
+            "path": "frontend",
+            "name": "track-frontend",
+            "folder_exclude_patterns": [
+                "angular/.tmp",
+                "bower_components",
+                "coverage",
+                "angular/dist",
+                "node_modules",
+                "false"
+            ],
+            "file_exclude_patterns": [
+                ".git"
+            ]
+        },
+        {
+            "path": "docs",
+            "name": "track-docs",
+            "folder_exclude_patterns": [
+                "_pages",
+                "_site"
+            ],
+            "file_exclude_patterns": [
+                ".git"
+            ]
+        },
+        {
+            "path": "api",
+            "name": "track-api",
+            "folder_exclude_patterns": [
+
+            ],
+            "file_exclude_patterns": [
+                ".git"
+            ]
+        }
+    ],
+    "settings":
+    {
+        "tab_size": 2,
+        "translate_tabs_to_spaces": true,
+        "draw_white_space": "all",
+    }
+}
